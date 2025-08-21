@@ -15,3 +15,4 @@ Notes and usage details for gossh.
 - add a note about the defaults
 - link the usage section
 - fix a small wording issue
+- fix a small wording issue
