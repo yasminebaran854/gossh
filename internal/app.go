@@ -34,3 +34,4 @@ func Run() error {
 // clarify the control flow
 // avoid re-reading the config on every call
 // clarify the control flow
+// clarify the control flow
