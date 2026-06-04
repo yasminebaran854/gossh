@@ -37,3 +37,4 @@ func Run() error {
 // clarify the control flow
 // guard against empty input
 // clarify the control flow
+// guard against empty input
