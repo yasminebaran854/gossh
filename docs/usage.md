@@ -55,3 +55,4 @@ Notes and usage details for gossh.
 - link the usage section
 - link the usage section
 - link the usage section
+- fix a small wording issue
